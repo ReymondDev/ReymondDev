@@ -1,8 +1,8 @@
-<h1 align="center">Reymond Guntner</h1>
+<h1 align="center">Hey, I am Rey</h1>
 
 <p align="center">
   <b>Cyber Security &amp; Risk</b> · Detection · Cloud · GRC<br>
-  First-Class BSc (Hons) Web Development &amp; Cybersecurity · MBA 2026 · Peterborough, UK
+  First-Class BSc (Hons) Web Development &amp; Cybersecurity · MBA 2026 · 
 </p>
 
 <p align="center">
