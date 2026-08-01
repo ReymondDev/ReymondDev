@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/reymond-guntner-674872204"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:guntner.reymond@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="[https://tryhackme.com/p/ReymondDev]"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  <a href="https://tryhackme.com/p/ReymondDev"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
   <a href="./CV-Reymond-Guntner.pdf"><img src="https://img.shields.io/badge/CV-Download-4B5563?style=flat-square" alt="CV"></a>
 </p>
 
