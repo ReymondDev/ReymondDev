@@ -37,7 +37,9 @@ Each repo below has a full write-up: the objective, what I built, what I found, 
 | **[SOC Home Lab & Detection Engineering](LINK)** | Ingested Windows/Sysmon telemetry, triaged simulated attacks, wrote 8 custom detections and tuned out false positives. Includes 3 full incident write-ups in analyst-report format. | Wazuh · Sysmon · Sigma · MITRE ATT&CK |
 | **[Alert Triage Playbooks + SOAR Automation](LINK)** | Automated enrichment and case creation for a phishing alert path — cut manual triage steps from 9 to 3. Documented the runbook a Tier 1 analyst would actually follow. | Shuffle · TheHive · Python · VirusTotal API |
 | **[Cloud Security Baseline Assessment](LINK)** | Audited a deliberately misconfigured cloud tenant against CIS Benchmarks, produced a prioritised findings report with business impact and remediation effort. | Azure/AWS · CIS Benchmarks · Prowler |
-| **[ISO 27001 Risk Register & Control Gap Analysis](LINK)** | Built a working risk register for a fictional SME: asset inventory, threat scenarios, likelihood/impact scoring, control mapping, and a board-level summary page. | ISO 27001 · NIST CSF · Risk scoring |
+
+| **[ISO 27001 Risk Assessment — UK Manufacturing SME](https://github.com/ReymondDev/iso27001-risk-assessment)** | Full risk assessment for a 60-person precision engineering firm pursuing certification under customer mandate. Scope definition, 15-asset inventory with CIA classification, risk register, Annex A gap analysis, board-level summary. | ISO 27001:2022 · UK GDPR · Risk scoring |
+
 | **[Web Application Vulnerability Assessment](LINK)** | Authorised assessment against an intentionally vulnerable app, mapped to OWASP Top 10, written as a formal client-style report with executive summary and CVSS ratings. | Burp Suite · OWASP · CVSS |
 
 ---
