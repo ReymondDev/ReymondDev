@@ -22,7 +22,7 @@ That second half is deliberate. My BSc is technical (cloud security, network com
 
 ### Currently working on
 
-- **CompTIA Security+ (SY0-701)** — exam booked for `MONTH YYYY`
+- **CompTIA Security+ (SY0-701)** — exam booked for `08 2026`
 - **Detection-as-code**: converting my lab detections into portable Sigma rules and mapping coverage against MITRE ATT&CK
 - **MBA dissertation**: digitalisation and firm performance in UK manufacturing — quantitative, Orbis dataset
 
