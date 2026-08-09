@@ -34,7 +34,7 @@ Each repo below has a full write-up: the objective, what I built, what I found, 
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| **[SOC Home Lab & Detection Engineering](LINK)** | Ingested Windows/Sysmon telemetry, triaged simulated attacks, wrote 8 custom detections and tuned out false positives. Includes 3 full incident write-ups in analyst-report format. | Wazuh · Sysmon · Sigma · MITRE ATT&CK |
+| **[SOC Home Lab & Detection Engineering](https://github.com/ReymondDev/soc-home-lab)** | Deployed Wazuh SIEM & Sysmon on Windows endpoint, executed Atomic Red Team simulations (T1059, T1087, T1518), and engineered custom XML and Sigma detection rules for account discovery. | Wazuh · Sysmon · Atomic Red Team · Sigma · MITRE ATT&CK |
 | **[Alert Triage Playbooks + SOAR Automation](LINK)** | Automated enrichment and case creation for a phishing alert path — cut manual triage steps from 9 to 3. Documented the runbook a Tier 1 analyst would actually follow. | Shuffle · TheHive · Python · VirusTotal API |
 | **[Cloud Security Baseline Assessment](LINK)** | Audited a deliberately misconfigured cloud tenant against CIS Benchmarks, produced a prioritised findings report with business impact and remediation effort. | Azure/AWS · CIS Benchmarks · Prowler |
 
