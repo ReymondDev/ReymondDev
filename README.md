@@ -22,7 +22,7 @@ That second half is deliberate. My BSc is technical (cloud security, network com
 
 ### Currently working on
 
-- **CompTIA Security+ (SY0-701)** — exam booked for `08 2026`
+- **CompTIA Security+ (SY0-701)** — exam booked for August 2026
 - **Detection-as-code**: converting my lab detections into portable Sigma rules and mapping coverage against MITRE ATT&CK
 - **MBA dissertation**: digitalisation and firm performance in UK manufacturing — quantitative, Orbis dataset
 
@@ -32,15 +32,11 @@ That second half is deliberate. My BSc is technical (cloud security, network com
 
 Each repo below has a full write-up: the objective, what I built, what I found, and what I'd do differently.
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| **[SOC Home Lab & Detection Engineering](https://github.com/ReymondDev/soc-home-lab)** | Deployed Wazuh SIEM & Sysmon on Windows endpoint, executed Atomic Red Team simulations (T1059, T1087, T1518), and engineered custom XML and Sigma detection rules for account discovery. | Wazuh · Sysmon · Atomic Red Team · Sigma · MITRE ATT&CK |
-| **[Alert Triage Playbooks + SOAR Automation](LINK)** | Automated enrichment and case creation for a phishing alert path — cut manual triage steps from 9 to 3. Documented the runbook a Tier 1 analyst would actually follow. | Shuffle · TheHive · Python · VirusTotal API |
-| **[Cloud Security Baseline Assessment](LINK)** | Audited a deliberately misconfigured cloud tenant against CIS Benchmarks, produced a prioritised findings report with business impact and remediation effort. | Azure/AWS · CIS Benchmarks · Prowler |
-
-| **[ISO 27001 Risk Assessment — UK Manufacturing SME](https://github.com/ReymondDev/iso27001-risk-assessment)** | Full risk assessment for a 60-person precision engineering firm pursuing certification under customer mandate. Scope definition, 15-asset inventory with CIA classification, risk register, Annex A gap analysis, board-level summary. | ISO 27001:2022 · UK GDPR · Risk scoring |
-
-| **[Web Application Vulnerability Assessment](LINK)** | Authorised assessment against an intentionally vulnerable app, mapped to OWASP Top 10, written as a formal client-style report with executive summary and CVSS ratings. | Burp Suite · OWASP · CVSS |
+| Project | What it demonstrates | Stack | Status |
+|---|---|---|---|
+| **[SOC Home Lab & Detection Engineering](https://github.com/ReymondDev/soc-home-lab)** | Deployed Wazuh SIEM & Sysmon on Windows endpoint, executed Atomic Red Team simulations (T1059, T1087, T1518), and engineered custom XML and Sigma detection rules for account discovery. | Wazuh · Sysmon · Atomic Red Team · Sigma · MITRE ATT&CK | ✅ Complete |
+| **[ISO 27001 Risk Assessment — UK Manufacturing SME](https://github.com/ReymondDev/iso27001-risk-assessment)** | Full risk assessment for a 45-person haulage & logistics firm pursuing certification under customer mandate. Scope definition, 15-asset inventory with CIA classification, risk register, Annex A gap analysis, board-level summary. | ISO 27001:2022 · UK GDPR · Risk scoring | ✅ Complete |
+| **Alert Triage Playbooks + SOAR Automation** | Automated enrichment and case creation for a phishing alert path — cut manual triage steps from 9 to 3. Documented the runbook a Tier 1 analyst would actually follow. | Shuffle · TheHive · Python · VirusTotal API | 🚧 In Progress |
 
 ---
 
@@ -50,11 +46,9 @@ Each repo below has a full write-up: the objective, what I built, what I found, 
 |---|---|
 | SIEM log analysis & alert triage | SOC Home Lab · TryHackMe SOC Level 1 |
 | Detection engineering (Sigma, ATT&CK mapping) | SOC Home Lab |
-| Incident response & documentation | Alert Triage Playbooks · lab incident write-ups |
-| Security automation & scripting | SOAR project (Python) · BSc coursework |
-| Cloud security posture & configuration review | Cloud Baseline Assessment · BSc Cloud Computing module |
-| Risk assessment, ISO 27001 / NIST CSF | Risk Register project · MBA Strategic Risk |
-| Web app security (OWASP Top 10) | Vulnerability Assessment · BSc dissertation |
+| Risk assessment, ISO 27001 / NIST CSF | ISO 27001 Risk Assessment · MBA Strategic Risk |
+| Cloud security posture & configuration review | BSc Cloud Computing module |
+| Web app security (OWASP Top 10) | BSc dissertation |
 | Compliance governance & KPI reporting | Professional — Cox Automotive Europe |
 
 ---
@@ -63,9 +57,8 @@ Each repo below has a full write-up: the objective, what I built, what I found, 
 
 | Credential | Status |
 |---|---|
-| CompTIA Security+ (SY0-701) | In progress — exam `MONTH YYYY` |
-| ISC2 Certified in Cybersecurity (CC) | `Passed MONTH YYYY` / In progress |
-| TryHackMe — SOC Level 1 path | `X%` complete · [profile](https://tryhackme.com/p/YOURUSERNAME) |
+| CompTIA Security+ (SY0-701) | In progress — exam August 2026 |
+| TryHackMe — SOC Level 1 path | In progress · [profile](https://tryhackme.com/p/ReymondDev) |
 | BSc (Hons) Web Development & Cybersecurity | First Class Honours, 2025 |
 
 ---
