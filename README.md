@@ -57,7 +57,7 @@ Each repo below has a full write-up: the objective, what I built, what I found, 
 
 | Credential | Status |
 |---|---|
-| CompTIA Security+ (SY0-701) | In progress — exam August 2026 |
+| CompTIA Security+ (SY0-701) 
 | TryHackMe — SOC Level 1 path | In progress · [profile](https://tryhackme.com/p/ReymondDev) |
 | BSc (Hons) Web Development & Cybersecurity | First Class Honours, 2025 |
 
